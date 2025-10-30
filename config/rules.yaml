@@ -1,0 +1,19 @@
+thresholds:
+  min_daily_score: 70
+weights:
+  funding_recent: 40
+  hiring_surge: 25
+  role_vp_hire: 20
+  compliance_keywords: 18
+  tech_added_match: 22
+  negative_reviews: -20
+  layoffs: -30
+decay:
+  half_life_days: 45
+limits:
+  max_drafts_per_day: 10
+  max_variants: 2
+email:
+  from_name: "Your Name"
+  from_email: "you@yourdomain.com"
+  unsubscribe_line: "To opt out, reply STOP."

@@ -1,0 +1,12 @@
+{
+  "draft_id": "41b20e9f",
+  "company_id": 2,
+  "created_at": "2025-10-29T22:59:48Z",
+  "persona": "sdr",
+  "variant": 0,
+  "subject": "[stub] Opportunity to streamline ops",
+  "body": "[stub] Based on recent public signals, we can help with automation. Interested in a quick chat?",
+  "evidence_json": "[{\"event_id\": \"b0787c794d36f42ce97369dcff70d777e87be7d0\", \"company_id\": 2, \"url\": \"https://techcrunch.com/2025/02/19/sanas-taps-ai-to-change-call-center-workers-accents-in-real-time/\", \"title\": \"Sanas taps AI to change call center workers\\u2019 accents in real time\"}, {\"event_id\": \"f25621b45cc183fde8724bc9fed9031efcad6ae3\", \"company_id\": 2, \"url\": \"https://techcrunch.com/2025/07/17/substack-raises-100m-from-chernin-group-andreessen-horowitz-skims-ceo-and-more/\", \"title\": \"Substack raises $100M from Chernin Group, Andreessen Horowitz, Skims CEO, and more\"}, {\"event_id\": \"b5ec3abdc269b6b69ffa674acf162601834f5b00\", \"company_id\": 2, \"url\": \"https://techcrunch.com/2025/02/14/elon-musks-ai-company-xai-said-to-be-in-talks-to-raise-10b/\", \"title\": \"Elon Musk\\u2019s AI company, xAI, said to be in talks to raise $10B\"}, {\"event_id\": \"56ddf16233ab10443926c16001aba7e720921b55\", \"company_id\": 2, \"url\": \"https://techcrunch.com/2025/04/16/capsule-captures-12m-to-build-the-next-version-of-its-ai-video-editor-for-brands/\", \"title\": \"Capsule captures $12M to build the next version of its AI video editor for brands\"}, {\"event_id\": \"6cf1f224cc62ce1d0f92ef3c4182cf5cdd4c90ef\", \"company_id\": 2, \"url\": \"https://techcrunch.com/2025/02/12/spotdraft-taps-ai-to-help-streamline-contract-management/\", \"title\": \"SpotDraft taps AI to help streamline contract management\"}]",
+  "status": "queued",
+  "metrics_json": "{}"
+}

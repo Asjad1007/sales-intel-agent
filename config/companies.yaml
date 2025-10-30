@@ -1,0 +1,22 @@
+companies:
+  - name: AlphaFin
+    domain: alphafin.io
+    icp_tags: ["fintech","compliance","soc2"]
+    sources:
+      rss:
+        - https://techcrunch.com/tag/funding/feed/          # frequent "raises / Series A/B"
+      jobs:
+        - https://jobs.lever.co/stripe                      # leadership/security roles often appear
+      reviews: []
+      changelog: []
+
+  - name: BetaSec
+    domain: betasec.com
+    icp_tags: ["security","mid-market","devsecops"]
+    sources:
+      rss:
+        - https://www.prnewswire.com/rss/technology-latest-news.rss
+      jobs:
+        - https://boards.greenhouse.io/cloudflare
+      reviews: []
+      changelog: []
