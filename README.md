@@ -182,7 +182,7 @@ https://techcrunch.com/...capsule...
 ---
 
 ## 🧑‍💻 Author
-**Asjad [Your Last Name]**  
-*AI Engineer / Data Engineer*  
-University of Virginia – HPC-based Applied AI Research  
-📧 asjad@virginia.edu
+**Asjad Nirban**  
+*MSCS*  
+University of Virginia  
+📧 asjad.nirban@gmail.com
